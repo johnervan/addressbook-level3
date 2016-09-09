@@ -45,8 +45,11 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | user | add a new person | 
 `* * *` | user | delete a person | can remove entries that I no longer need
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
+`* *` | user | edit a person's details | change the contact details of a person without having to delete and re-add the whole person
 `* *` | user | hide [private contact details](#private-contact-detail) by default | to minimize chance of someone else seeing them by accident
+`* *` | user | add multiple phone numbers and email addresses to a single person | store multiple contact details of my contacts without having to add the same person multiple times to store his multiple phone numbers or email addresses
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
+`*` | user | change GUI colour theme | use a colour theme that suits my liking
 
 
 ## Appendix B : Use Cases
