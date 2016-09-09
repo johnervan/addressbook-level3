@@ -77,6 +77,38 @@ Use case ends.
 > 3a1. AddressBook shows an error message <br>
   Use case resumes at step 2
 
+#### Use case: Edit tag
+
+**MSS**
+
+1. User requests to find a person
+2. AddressBook shows a list of persons that are similar to the searched person
+3. User requests to edit the tag of a specific person in the list from the current tag to a new tag
+4. AddressBook edits the current tag to a new tag specified by the User
+Use case ends.
+
+**Extensions**
+
+2a. The list is empty
+
+> Use case ends
+
+3a. The given index is invalid
+
+> 3a1. AddressBook shows an error message <br>
+  Use case resumes at step 2
+
+3b. The given current tag is not found
+
+> 3b1. AddressBook shows an error message <br>
+  Use case resues at step 2
+
+3c. The given new tag is not valid
+
+> 3c1. AddressBook shows an error message <br>
+  Use case resumes at step 2
+
+
 ## Appendix C : Non Functional Requirements
 
 1. Should work on any [mainstream OS](#mainstream-os) as long as it has Java 8 or higher installed.
