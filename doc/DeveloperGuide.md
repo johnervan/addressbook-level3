@@ -84,7 +84,7 @@ Use case ends.
 1. User requests to find a person
 2. AddressBook shows a list of persons that are similar to the searched person
 3. User requests to edit the tag of a specific person in the list from the current tag to a new tag
-4. AddressBook edits the current tag to a new tag specified by the User
+4. AddressBook edits the current tag to a new tag specified by the User <br>
 Use case ends.
 
 **Extensions**
