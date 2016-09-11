@@ -115,6 +115,8 @@ Use case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands
+5. Should take no longer than 2s to respond to user's commands
+6. Should be properly documented to allow for easy program scalability (i.e. adding new functions)
 
 ## Appendix D : Glossary
 
