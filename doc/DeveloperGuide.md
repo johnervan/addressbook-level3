@@ -77,7 +77,7 @@ Use case ends.
 > 3a1. AddressBook shows an error message <br>
   Use case resumes at step 2
 
-#### Use case: Edit tag
+#### Use case: Rename tag
 
 **MSS**
 
@@ -93,7 +93,7 @@ Use case ends.
 
 > Use case ends
 
-3a. The given index is invalid
+3a. The requested person from the list is invalid
 
 > 3a1. AddressBook shows an error message <br>
   Use case resumes at step 2
